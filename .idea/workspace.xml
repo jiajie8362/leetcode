@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d085ed6e-259e-41f7-bd8e-287e420647cb" name="Default" comment="">
+    <list default="true" id="d085ed6e-259e-41f7-bd8e-287e420647cb" name="Default" comment="dd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,12 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Node.js.22.js">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jie\leetcode\old" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.20.js">
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -54,19 +59,19 @@
       <framework value="gotest" />
       <kind value="DIRECTORY" />
     </configuration>
-    <configuration name="202.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/old/202.js" working-dir="$PROJECT_DIR$">
+    <configuration name="15.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/byte/15.js" working-dir="$PROJECT_DIR$/byte">
       <method v="2" />
     </configuration>
-    <configuration name="206.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/old/206.js" working-dir="$PROJECT_DIR$">
+    <configuration name="20.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/byte/20.js" working-dir="$PROJECT_DIR$/byte">
       <method v="2" />
     </configuration>
-    <configuration name="22.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/old/22.js" working-dir="$PROJECT_DIR$">
+    <configuration name="33.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/byte/33.js" working-dir="$PROJECT_DIR$/byte">
       <method v="2" />
     </configuration>
-    <configuration name="q2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/old/q2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/byte/3.js" working-dir="$PROJECT_DIR$/byte">
       <method v="2" />
     </configuration>
-    <configuration name="q61.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/old/q61.js" working-dir="$PROJECT_DIR$">
+    <configuration name="5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/byte/5.js" working-dir="$PROJECT_DIR$/byte">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.grunt">
@@ -75,19 +80,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.q2.js" />
-      <item itemvalue="Node.js.q61.js" />
-      <item itemvalue="Node.js.206.js" />
-      <item itemvalue="Node.js.202.js" />
-      <item itemvalue="Node.js.22.js" />
+      <item itemvalue="Node.js.3.js" />
+      <item itemvalue="Node.js.5.js" />
+      <item itemvalue="Node.js.15.js" />
+      <item itemvalue="Node.js.33.js" />
+      <item itemvalue="Node.js.20.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.22.js" />
-        <item itemvalue="Node.js.202.js" />
-        <item itemvalue="Node.js.206.js" />
-        <item itemvalue="Node.js.q61.js" />
-        <item itemvalue="Node.js.q2.js" />
+        <item itemvalue="Node.js.20.js" />
+        <item itemvalue="Node.js.33.js" />
+        <item itemvalue="Node.js.15.js" />
+        <item itemvalue="Node.js.5.js" />
+        <item itemvalue="Node.js.3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -114,111 +119,206 @@
       <updated>1589032570923</updated>
       <workItem from="1589032572934" duration="25673000" />
       <workItem from="1589299294476" duration="159000" />
+      <workItem from="1589626455120" duration="9905000" />
+      <workItem from="1589678568500" duration="9729000" />
     </task>
+    <task id="LOCAL-00001" summary="dd">
+      <created>1589626504844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589626504845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="478" height="466" key="DebuggerActiveHint" timestamp="1589041018573">
+    <state x="960" y="124" key="CommitChangelistDialog2" timestamp="1589626503894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="478" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1589041018573" />
-    <state width="907" height="214" key="GridCell.Tab.0.bottom" timestamp="1589117949440">
+    <state x="960" y="124" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589626503894" />
+    <state width="530" height="466" key="DebuggerActiveHint" timestamp="1589685587597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589117949440" />
-    <state width="907" height="214" key="GridCell.Tab.0.center" timestamp="1589117949440">
+    <state width="530" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1589685587597" />
+    <state width="881" height="283" key="GridCell.Tab.0.bottom" timestamp="1589686828387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589117949440" />
-    <state width="907" height="214" key="GridCell.Tab.0.left" timestamp="1589117949439">
+    <state width="881" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828387" />
+    <state width="881" height="283" key="GridCell.Tab.0.center" timestamp="1589686828387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589117949439" />
-    <state width="907" height="214" key="GridCell.Tab.0.right" timestamp="1589117949440">
+    <state width="881" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828387" />
+    <state width="881" height="283" key="GridCell.Tab.0.left" timestamp="1589686828387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589117949440" />
-    <state width="924" height="335" key="GridCell.Tab.1.bottom" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828387" />
+    <state width="881" height="283" key="GridCell.Tab.0.right" timestamp="1589686828387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.1.center" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828387" />
+    <state width="881" height="283" key="GridCell.Tab.1.bottom" timestamp="1589686828722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.1.left" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828722" />
+    <state width="881" height="283" key="GridCell.Tab.1.center" timestamp="1589686828721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.1.right" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828721" />
+    <state width="881" height="283" key="GridCell.Tab.1.left" timestamp="1589686828721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.2.bottom" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828721" />
+    <state width="881" height="283" key="GridCell.Tab.1.right" timestamp="1589686828722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.2.center" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828722" />
+    <state width="881" height="283" key="GridCell.Tab.2.bottom" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.2.left" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.2.center" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.2.right" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.2.left" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.3.bottom" timestamp="1589082890090">
+    <state width="881" height="283" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.2.right" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890090" />
-    <state width="924" height="335" key="GridCell.Tab.3.center" timestamp="1589082890090">
+    <state width="881" height="283" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.3.bottom" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890090" />
-    <state width="924" height="335" key="GridCell.Tab.3.left" timestamp="1589082890089">
+    <state width="881" height="283" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.3.center" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890089" />
-    <state width="924" height="335" key="GridCell.Tab.3.right" timestamp="1589082890090">
+    <state width="881" height="283" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.3.left" timestamp="1589686828280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="335" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589082890090" />
+    <state width="881" height="283" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
+    <state width="881" height="283" key="GridCell.Tab.3.right" timestamp="1589686828280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="881" height="283" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589686828280" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/q1.js</url>
+          <url>file://$PROJECT_DIR$/old/q1.js</url>
           <line>12</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/q1.js</url>
+          <url>file://$PROJECT_DIR$/old/q1.js</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/202.js</url>
+          <url>file://$PROJECT_DIR$/old/202.js</url>
           <line>24</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/202.js</url>
+          <url>file://$PROJECT_DIR$/old/202.js</url>
           <line>11</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/3.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/3.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/3.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/5.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/5.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/5.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/15.js</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/33.js</url>
+          <line>23</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/33.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/20.js</url>
+          <line>12</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/20.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/20.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/20.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/byte/20.js</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
         <watch expression="nums[i]" language="JavaScript" />
-        <watch expression="i" language="JavaScript" />
       </configuration>
     </watches-manager>
   </component>
